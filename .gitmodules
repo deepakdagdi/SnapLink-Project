@@ -1,0 +1,6 @@
+[submodule "SnapLink-Project-Frontend"]
+	path = SnapLink-Project-Frontend
+	url = https://github.com/deepakdagdi/SnapLink-Project-Frontend.git
+[submodule "SnapLink-Project-Backend"]
+	path = SnapLink-Project-Backend
+	url = https://github.com/deepakdagdi/SnapLink-Project-Backend.git
